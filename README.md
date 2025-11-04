@@ -1,4 +1,4 @@
-![Portfolio Preview](https://raw.githubusercontent.com/Sarthakbajaj0323/sarthak-portfolio/main/portfolio-preview.png)
+![Portfolio Preview](https://raw.githubusercontent.com/Sarthakbajaj0323/Sarthak-Bajaj-Portfolio/main/Sarthak-Bajaj_Portfolio.png)
 
 # 🌐 Sarthak Bajaj — Portfolio Website
 
